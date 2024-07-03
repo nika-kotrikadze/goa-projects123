@@ -1,2 +1,2 @@
-for i in range(120,500,3):
+for i in range(120,501,15):
     print(3,i)
