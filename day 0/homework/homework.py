@@ -55,6 +55,10 @@ back(50)
 left(90)
 back(25)
 forward(50)
+right(90)
+forward(25)
+right(90)
+forward(50)
 
 
 exitonclick()
